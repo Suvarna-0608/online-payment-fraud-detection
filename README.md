@@ -5,13 +5,13 @@
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-Machine%20Learning-F7931E)
 ![Status](https://img.shields.io/badge/Status-Completed-success)
 
-## 📌 Project Overview
+## Project Overview
 
 This project is designed to enhance the security of online financial transactions by identifying and flagging fraudulent payment activities. In the rapidly evolving landscape of digital commerce, ensuring the integrity of payments is crucial. This system provides a robust mechanism to help prevent financial losses due to illicit transactions.
 
 ---
 
-## 🔑 Key Features & Pipeline
+## Key Features & Pipeline
 
 * **Data Preprocessing & EDA**: Analysis of transactional patterns, balance changes, and distribution using interactive Jupyter Notebooks (`EDA.ipynb`).
 * **Fraud Detection Model**: Machine Learning model trained on historical payment data to classify transactions as legitimate or fraudulent (`model.ipynb`).
@@ -20,7 +20,7 @@ This project is designed to enhance the security of online financial transaction
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 * **Language**: Python 3.8+
 * **Machine Learning & Analysis**: Scikit-Learn, Pandas, NumPy, Jupyter Notebook
@@ -30,7 +30,7 @@ This project is designed to enhance the security of online financial transaction
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```text
 online-payment-fraud-detection/
